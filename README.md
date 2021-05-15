@@ -2,7 +2,7 @@
  `node` `mongoose` `express` `passport.js` `OAuth 2.0` `Ejs`
 
 I created simple WebApp *Secrets* in which user can register/login by using Facebook, Google, GitHub and email for submit there secrets to homepage.
-I used node.js and mongoose in backend and give styles to website by using bootstrap framework.
+I used node.js and mongoose in backend and give styles to website by using bootstrap framework.Ejs used to generate HTML markup with plain JavaScript.
 
 
 
